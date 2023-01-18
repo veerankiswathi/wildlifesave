@@ -1,4 +1,4 @@
-# Hii..Everyone this is Veerani Swathi Here is about FRT project detials:
+# Hii..Everyone this is Veeranki Swathi Here is about FRT project detials:
 
 # Project name: Wildlife safe
 
