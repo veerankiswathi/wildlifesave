@@ -23,7 +23,7 @@ Css,Javascript
 
 ## Azure Static Webapp:
 
-## Azure Lanuage service:
+## Azure Language service:
 
 ## Azure Bot page:
 
