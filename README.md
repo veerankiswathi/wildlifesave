@@ -13,9 +13,9 @@ Html,
 Css,Javascript
 
 # Project Demo links:
-## Azure project demolink:https://agreeable-bay-050661110.2.azurestaticapps.net/
-## Github Reposistory link:https://github.com/veerankiswathi/wildlifesave
-## Github project Link: https://veerankiswathi.github.io/wildlifesave/
+### Azure project demolink:https://agreeable-bay-050661110.2.azurestaticapps.net/
+### Github Reposistory link:https://github.com/veerankiswathi/wildlifesave
+### Github project Link: https://veerankiswathi.github.io/wildlifesave/
 
 # Azure Technologies Screenshots:
 
